@@ -1,2 +1,2 @@
-# logger-proxy
-Javascript Log Proxy 
+# hs-logjs
+Javascript Log Helper 
